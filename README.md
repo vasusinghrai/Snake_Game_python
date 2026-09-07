@@ -36,4 +36,4 @@ Make sure Python is installed on your computer.
 Run the game:
 
 ```bash
- Snake_Game.py
+ Python Snake_Game.py
