@@ -18,7 +18,7 @@
 
 ## Demo 
 
-
+![image alt](https://github.com/vasusinghrai/Snake_Game_python/blob/c090fb674cb5944f0dd422399c68f7fc4e173751/Screenshot%202026-09-07%20160207.png)
 
 ##  How to Run
 
